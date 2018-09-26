@@ -6,7 +6,7 @@
 [![unity][unity-badge]][unity-link]&nbsp;
 [![download][download-badge]][download-package-link]&nbsp;
 [![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg?style=popout)](https://github.com/prashant-singh/unity-custom-mono/blob/master/LICENSE)
-[![GitHub release](https://img.shields.io/github/release/prashant-singh/unity-custom-mono/all.svg)](https://github.com/prashant-singh/unity-custom-mono)
+[![GitHub release](https://img.shields.io/github/release/prashant-singh/unity-custom-mono/all.svg)](https://github.com/prashant-singh/unity-custom-mono/releases)
 
 
 
